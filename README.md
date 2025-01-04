@@ -28,7 +28,7 @@ I am a passionate **Full Stack Developer** currently pursuing **B.Tech in Comput
 ## 📚 Featured Projects
 
 - **[Study With Us](https://studywithus.vercel.app/)** – A collaborative platform for college notes and resources.
-- **[Copy Paste Website](https://copypaste-two.vercel.app/)** – A simple web app for sharing text and images.
+- **[Copy Paste Website](https://copypaste-one.vercel.app/)** – A simple web app for sharing text and images.
 - **[Exam Portal](https://github.com/thedevanshagrawal/exam-portal)** – A full-stack online examination system with secure access control.
 
 ---
